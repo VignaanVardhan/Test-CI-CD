@@ -1,6 +1,5 @@
 echo "Hello Pusher"
-cd .././apps/regimanbackend/
+cd /home/bitnami/TestCICD/TestForCICD
 git pull
 npm i
-pm2 restart 
-if 
+echo " push pull success"
